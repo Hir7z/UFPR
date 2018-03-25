@@ -1,0 +1,16 @@
+Diego Hirt Santos Rodrigues
+GRR20120737
+-----------------------------------------------------------------------------------------------------------
+Arquivos Alterados :
+	mips_pipeline.vhd
+	reg32_ce.vhd
+	reg.vhd
+	control_pipeline.vhd
+	basic_types.vhd
+	faz.sh --Executavel para gerar rom32.vhd,copia-la para pasta principal e executar make sim.
+-----------------------------------------------------------------------------------------------------------
+Ponto Positivos :
+	ver funcionamento de um pipeline.
+-----------------------------------------------------------------------------------------------------------
+Tempo Gasto :
+	Algo em torno de 30horas.

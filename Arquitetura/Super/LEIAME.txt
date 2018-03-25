@@ -1,0 +1,18 @@
+Diego Hirt Santos Rodrigues
+GRR20120737
+------------------------------------------------------------------------------------------------
+Arquivos Alterados:
+	mips_pipeline.vhd
+	control_pipeline.vhd
+	basic_types.vhd
+	reg32_ce.vhd
+	reg_bank.vhd
+	faz.sh --Executavel para gerar rom32.vhd,copia-la para pasta principal e executar make sim
+------------------------------------------------------------------------------------------------
+Pontos Positivos:
+	Ver execução de pipeline superescalar estático.
+Pontos Negativos:
+	Informações sobre superescalar visto em sala foram rápidas.
+------------------------------------------------------------------------------------------------
+Tempo Gasto:
+	Aproximadamente 15 horas.

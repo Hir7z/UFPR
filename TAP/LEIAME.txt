@@ -1,0 +1,10 @@
+Diego Hirt Santos Rodrigues - GRR20120737
+
+--------------------------------------------
+Instruçoes compilação
+
+compilar : javac -J-Xmx2G Usuario.java LinhaTempo.java Programa.java -d .
+
+executar :  java -Xmx2G trabTap.Programa
+--------------------------------------------
+"Carcaça" rede social usando padrão de projeto observer
